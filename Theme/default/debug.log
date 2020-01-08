@@ -1,0 +1,2 @@
+[0815/165058.635:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: The specified information record length does not match the length required for the specified information class. (0xc0000004)
+[0107/155631.151:ERROR:crash_report_database_win.cc(428)] unexpected header
